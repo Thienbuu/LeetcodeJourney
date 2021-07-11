@@ -10,6 +10,7 @@ Valid Parentheses: [Problem](https://leetcode.com/problems/valid-parentheses/) |
 Merge Two Sorted Lists: [Problem](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/MergeTwoSortedLists.java)\
 Remove Duplicates from Sorted Array: [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/RemoveDuplicates.java)\
 Remove Element: [Problem](https://leetcode.com/problems/remove-element/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/RemoveElement.java)\
+Implement strStr(): [Problem](https://leetcode.com/problems/implement-strstr/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/StrStr.java)\
 
 ## Medium
 ## Hard
