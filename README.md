@@ -14,7 +14,8 @@ Implement strStr(): [Problem](https://leetcode.com/problems/implement-strstr/) |
 Search Insert Position: [Problem](https://leetcode.com/problems/search-insert-position/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/InsertPosition.java)\
 Maximum Subarray: [Problem](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/MaximumSubarray.java)\
 Length of Last Word: [Problem](https://leetcode.com/problems/length-of-last-word/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/LengthOfLastWord.java)\
-Plus One: [Problem](https://leetcode.com/problems/plus-one/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/PlusOne.java)
+Plus One: [Problem](https://leetcode.com/problems/plus-one/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/PlusOne.java)\
+Add Binary: [Problem](https://leetcode.com/problems/add-binary/) | [Solution]()
 
 ## Medium
 ## Hard
