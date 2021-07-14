@@ -17,6 +17,7 @@ Length of Last Word: [Problem](https://leetcode.com/problems/length-of-last-word
 Plus One: [Problem](https://leetcode.com/problems/plus-one/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/PlusOne.java)\
 Add Binary: [Problem](https://leetcode.com/problems/add-binary/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/AddBinary.java)\
 Sqrt(x): [Problem](https://leetcode.com/problems/sqrtx/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/SqrtX.java)
+Climbing Stairs: [Problem](https://leetcode.com/problems/climbing-stairs/submissions/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ClimbingStairs.java)
 
 ## Medium
 ## Hard
