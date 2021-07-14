@@ -16,7 +16,7 @@ Maximum Subarray: [Problem](https://leetcode.com/problems/maximum-subarray/) | [
 Length of Last Word: [Problem](https://leetcode.com/problems/length-of-last-word/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/LengthOfLastWord.java)\
 Plus One: [Problem](https://leetcode.com/problems/plus-one/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/PlusOne.java)\
 Add Binary: [Problem](https://leetcode.com/problems/add-binary/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/AddBinary.java)\
-Sqrt(x): [Problem](https://leetcode.com/problems/sqrtx/) | [Solution]()
+Sqrt(x): [Problem](https://leetcode.com/problems/sqrtx/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/SqrtX.java)
 
 ## Medium
 ## Hard
