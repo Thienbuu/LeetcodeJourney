@@ -19,7 +19,8 @@ Add Binary: [Problem](https://leetcode.com/problems/add-binary/) | [Solution](ht
 Sqrt(x): [Problem](https://leetcode.com/problems/sqrtx/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/SqrtX.java)\
 Climbing Stairs: [Problem](https://leetcode.com/problems/climbing-stairs/submissions/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ClimbingStairs.java)\
 Remove Duplicates from Sorted List: [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/DeleteDuplicates.java)\
-Merge Sorted Array: [Problem](https://leetcode.com/problems/merge-sorted-array/) | [Solution]()
+Merge Sorted Array: [Problem](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/MergeSortedArray.java)\
+Binary Tree Inorder Traversal: [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution]()
 
 ## Medium
 ## Hard
