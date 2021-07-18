@@ -22,7 +22,7 @@ Remove Duplicates from Sorted List: [Problem](https://leetcode.com/problems/remo
 Merge Sorted Array: [Problem](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/MergeSortedArray.java)\
 ***Binary Tree Inorder Traversal: [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution]()***\
 Same Tree: [Problem](https://leetcode.com/problems/same-tree/submissions/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/SameTree.java)\
-Maximum Depth of Binary Tree: [Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Solution]()
+Maximum Depth of Binary Tree: [Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/MaxDepth.java)
 
 ## Medium
 ## Hard
