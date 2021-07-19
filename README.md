@@ -20,10 +20,12 @@ Sqrt(x): [Problem](https://leetcode.com/problems/sqrtx/) | [Solution](https://gi
 Climbing Stairs: [Problem](https://leetcode.com/problems/climbing-stairs/submissions/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ClimbingStairs.java)\
 Remove Duplicates from Sorted List: [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/DeleteDuplicates.java)\
 Merge Sorted Array: [Problem](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/MergeSortedArray.java)\
-***Binary Tree Inorder Traversal: [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution]()***\
+Binary Tree Inorder Traversal: [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/InorderTraversal.java)\
 Same Tree: [Problem](https://leetcode.com/problems/same-tree/submissions/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/SameTree.java)\
 Maximum Depth of Binary Tree: [Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/MaxDepth.java)\
 Convert Sorted Array to Binary Search Tree: [Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution]()
+Balanced Binary Tree: [Problem](https://leetcode.com/problems/balanced-binary-tree/) | [Solution]()\
+Minimum Depth of Binary Tree: [Problem](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution]()
 
 ## Medium
 ## Hard
