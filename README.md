@@ -23,8 +23,8 @@ Merge Sorted Array: [Problem](https://leetcode.com/problems/merge-sorted-array/)
 Binary Tree Inorder Traversal: [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/InorderTraversal.java)\
 Same Tree: [Problem](https://leetcode.com/problems/same-tree/submissions/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/SameTree.java)\
 Maximum Depth of Binary Tree: [Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/MaxDepth.java)\
-Convert Sorted Array to Binary Search Tree: [Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution]()
-Balanced Binary Tree: [Problem](https://leetcode.com/problems/balanced-binary-tree/) | [Solution]()\
+***Convert Sorted Array to Binary Search Tree: [Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution]()\***
+Balanced Binary Tree: [Problem](https://leetcode.com/problems/balanced-binary-tree/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/BalancedBinaryTree.java)\
 Minimum Depth of Binary Tree: [Problem](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution]()
 
 ## Medium
