@@ -25,7 +25,8 @@ Same Tree: [Problem](https://leetcode.com/problems/same-tree/submissions/) | [So
 Maximum Depth of Binary Tree: [Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/MaxDepth.java)\
 ***Convert Sorted Array to Binary Search Tree: [Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution]()***\
 Balanced Binary Tree: [Problem](https://leetcode.com/problems/balanced-binary-tree/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/BalancedBinaryTree.java)\
-Minimum Depth of Binary Tree: [Problem](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution]()
+Minimum Depth of Binary Tree: [Problem](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/BinaryTreeMinDepth.java)\
+Path Sum: [Problem](https://leetcode.com/problems/path-sum/) | [Solution]()
 
 ## Medium
 ## Hard
