@@ -27,8 +27,9 @@ Maximum Depth of Binary Tree: [Problem](https://leetcode.com/problems/maximum-de
 Balanced Binary Tree: [Problem](https://leetcode.com/problems/balanced-binary-tree/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/BalancedBinaryTree.java)\
 Minimum Depth of Binary Tree: [Problem](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/BinaryTreeMinDepth.java)\
 Path Sum: [Problem](https://leetcode.com/problems/path-sum/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/PathSum.java)\
-Pascal's Triangle: [Problem](https://leetcode.com/problems/pascals-triangle/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/BuildPascalTriangle.java)\
-Pascal's Triangle II: [Problem](https://leetcode.com/problems/pascals-triangle-ii/) | [Solution]()
+Pascal's Triangle (Generate Pascal's Triangle): [Problem](https://leetcode.com/problems/pascals-triangle/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/BuildPascalTriangle.java)\
+Pascal's Triangle II (Get array at rowth): [Problem](https://leetcode.com/problems/pascals-triangle-ii/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/GetRowthOfPascalTriangle.java)\
+Best Time to Buy and Sell Stock: [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution]()
 
 ## Medium
 ## Hard
