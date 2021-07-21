@@ -32,7 +32,8 @@ Pascal's Triangle II (Get array at rowth): [Problem](https://leetcode.com/proble
 Best Time to Buy and Sell Stock: [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/SellStock1.java)\
 Best Time to Buy and Sell Stock II: [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/SellStock2.java)\
 Valid Palindrome: [Problem](https://leetcode.com/problems/valid-palindrome/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ValidPalindromeString.java)\
-Single Number: [Problem](https://leetcode.com/problems/single-number/) | [Solution]()
+Single Number: [Problem](https://leetcode.com/problems/single-number/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/SingleNumber.java)\
+
 
 ## Medium
 ## Hard
