@@ -15,15 +15,37 @@
  */
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> result = new LinkedList<Integer>();
-        return getNode(root, result);
+        //Recursion
+        // return printNodes(root,  new LinkedList<Integer>());
+        //Iteration
+        return printNodes(root);
     }
     
-    private List<Integer> getNode(TreeNode root, List<Integer> result) {
+    //Recursion
+    public List<Integer> printNodes(TreeNode root, List<Integer> result) {
         if (root == null) return result;
-        getNode(root.left, result);
+        printNodes(root.left, result);
         result.add(root.val);
-        getNode(root.right, result);
+        printNodes(root.right, result);
         return result;       
+    }
+    
+    //Iteration
+    public List<Integer> printNodes(TreeNode root) {
+        LinkedList<Integer> result = new LinkedList<Integer>();
+        if (root == null) return result;
+        Stack<TreeNode> nodes = new Stack<TreeNode>();
+        
+        while (root != null || !nodes.isEmpty()) {
+            //get left leaf
+            while (root != null) {
+                nodes.push(root);
+                root = root.left;
+            }
+            root = nodes.pop();
+            result.add(root.val);
+            root = root.right;
+        }
+        return result;
     }
 }
