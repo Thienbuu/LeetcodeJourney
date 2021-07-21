@@ -34,7 +34,7 @@ Best Time to Buy and Sell Stock II: [Problem](https://leetcode.com/problems/best
 Valid Palindrome: [Problem](https://leetcode.com/problems/valid-palindrome/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ValidPalindromeString.java)\
 Single Number: [Problem](https://leetcode.com/problems/single-number/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/SingleNumber.java)\
 Linked List Cycle: [Problem](https://leetcode.com/problems/linked-list-cycle/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/LinkedListCycle.java)\
-Binary Tree Preorder Traversal: [Problem](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Problem](https://github.com/Thienbuu/LeetcodeJourney/blob/main/BinaryTreePreorderTraversal.java)
+Binary Tree Preorder Traversal: [Problem](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Problem](https://github.com/Thienbuu/LeetcodeJourney/blob/main/BinaryTreePreorderTraversal.java)\
 Binary Tree Postorder Traversal: [Problem](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/BinaryTreePostorderTraversal.java)\
 ***Min Stack: [Problem](https://leetcode.com/problems/min-stack/) | [Solution]()***\
 ***Read N Characters Given Read4 (Premium): [Problem](https://leetcode.com/problems/read-n-characters-given-read4/) | [Solution]()***\
