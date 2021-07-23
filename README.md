@@ -1,7 +1,7 @@
 # LeetcodeJourney
 
 ## Easy
-1. Two Sum: [Problem](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/TwoSum.java)\
+1. Two Sum: [Problem](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/TwoSum.java)
 7. Reverse Integer: [Problem](https://leetcode.com/problems/reverse-integer/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ReverseInteger.java)\
 9. Palindrome Number: [Problem](https://leetcode.com/problems/palindrome-number/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/PalindromeNumber.java)\
 13. Roman to Integer: [Problem](https://leetcode.com/problems/roman-to-integer/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/RomanToInteger.java)\
