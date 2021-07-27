@@ -40,6 +40,8 @@
 #155. Min Stack: [Problem](https://leetcode.com/problems/min-stack/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/MinStack.java)\
 ***#157. Read N Characters Given Read4 (Premium): [Problem](https://leetcode.com/problems/read-n-characters-given-read4/) | [Solution]()***\
 ***#160. Intersection of Two Linked Lists: [Problem](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Solution]()***\
+***#163. Missing Ranges (Premium): [Problem](https://leetcode.com/problems/missing-ranges/) | [Solution]()***\
+167. Two Sum II - Input array is sorted: [Prolbem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/TwoSumII.java)
 
 ## Medium
 #2. Add Two Numbers: [Problem](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/AddTwoNumbers.java)\
