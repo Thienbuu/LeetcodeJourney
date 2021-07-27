@@ -37,7 +37,7 @@
 #141. Linked List Cycle: [Problem](https://leetcode.com/problems/linked-list-cycle/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/LinkedListCycle.java)\
 #144. Binary Tree Preorder Traversal: [Problem](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Problem](https://github.com/Thienbuu/LeetcodeJourney/blob/main/BinaryTreePreorderTraversal.java)\
 #145. Binary Tree Postorder Traversal: [Problem](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/BinaryTreePostorderTraversal.java)\
-***#155. Min Stack: [Problem](https://leetcode.com/problems/min-stack/) | [Solution]()***\
+#155. Min Stack: [Problem](https://leetcode.com/problems/min-stack/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/MinStack.java)\
 ***#157. Read N Characters Given Read4 (Premium): [Problem](https://leetcode.com/problems/read-n-characters-given-read4/) | [Solution]()***\
 ***#160. Intersection of Two Linked Lists: [Problem](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Solution]()***\
 
