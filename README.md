@@ -45,7 +45,7 @@
 #168. Excel Sheet Column Title: [Problem](https://leetcode.com/problems/excel-sheet-column-title/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ExcelSheetColumnTitle.java)\
 #169. Majority Element: [Problem](https://leetcode.com/problems/majority-element/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/MajorityElement.java)\
 ***#170 Two Sum III - Data structure design (Premium): [Problem](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | [Solution]()***\
-***#171. Excel Sheet Column Number: [Problem](https://leetcode.com/problems/excel-sheet-column-number/) | [Solution]()***\
+#171. Excel Sheet Column Number: [Problem](https://leetcode.com/problems/excel-sheet-column-number/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ExcelSheetColumnNumber.java)\
 ***#172. Factorial Trailing Zeroes: [Problem](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Solution]()***
 
 ## Medium
