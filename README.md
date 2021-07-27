@@ -1,5 +1,7 @@
 # LeetcodeJourney
 
+#Algorithm
+
 ## Easy
 #1. Two Sum: [Problem](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/TwoSum.java)\
 #7. Reverse Integer: [Problem](https://leetcode.com/problems/reverse-integer/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ReverseInteger.java)\
@@ -55,3 +57,13 @@
 
 ## Hard
 #4. Median of Two Sorted Arrays: [Problem](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution]()
+
+#SQL
+
+## Easy
+#175. Combine Two Tables: [Problem](https://leetcode.com/problems/combine-two-tables/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/CombineTwoTables.txt)\
+***#176. Second Highest Salary: [Problem](https://leetcode.com/problems/second-highest-salary/) | [Solution]()***\
+***#181. Employees Earning More Than Their Managers; [Problem](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [Solution]()***
+
+## Medium
+## Hard
