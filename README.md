@@ -62,7 +62,7 @@
 
 ## Easy
 #175. Combine Two Tables: [Problem](https://leetcode.com/problems/combine-two-tables/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/CombineTwoTables.txt)\
-***#176. Second Highest Salary: [Problem](https://leetcode.com/problems/second-highest-salary/) | [Solution]()***\
+#176. Second Highest Salary: [Problem](https://leetcode.com/problems/second-highest-salary/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/SecondHighestSalary.txt)\
 ***#181. Employees Earning More Than Their Managers; [Problem](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [Solution]()***
 
 ## Medium
