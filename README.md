@@ -48,7 +48,9 @@
 #169. Majority Element: [Problem](https://leetcode.com/problems/majority-element/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/MajorityElement.java)\
 ***#170 Two Sum III - Data structure design (Premium): [Problem](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | [Solution]()***\
 #171. Excel Sheet Column Number: [Problem](https://leetcode.com/problems/excel-sheet-column-number/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ExcelSheetColumnNumber.java)\
-***#172. Factorial Trailing Zeroes: [Problem](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Solution]()***
+***#172. Factorial Trailing Zeroes: [Problem](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Solution]()***\
+***#190. Reverse Bits: [Problem](https://leetcode.com/problems/reverse-bits/) | [Solution]()***\
+***#191. Number of 1 Bits: [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution]()***
 
 ## Medium
 #2. Add Two Numbers: [Problem](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/AddTwoNumbers.java)\
@@ -56,14 +58,16 @@
 #5. Longest Palindromic Substring: [Problem](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution]()
 
 ## Hard
-#4. Median of Two Sorted Arrays: [Problem](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution]()
+***#4. Median of Two Sorted Arrays: [Problem](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution]()***
 
 #SQL
 
 ## Easy
 #175. Combine Two Tables: [Problem](https://leetcode.com/problems/combine-two-tables/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/CombineTwoTables.txt)\
 #176. Second Highest Salary: [Problem](https://leetcode.com/problems/second-highest-salary/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/SecondHighestSalary.txt)\
-***#181. Employees Earning More Than Their Managers; [Problem](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [Solution]()***
+#181. Employees Earning More Than Their Managers: [Problem](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/EmployeesEarningMoreThanTheirManagers.txt)\
+***#182. Duplicate Emails: [Problem](https://leetcode.com/problems/duplicate-emails/) | [Solution]()***\
+***#183. Customers Who Never Order: [Problem](https://leetcode.com/problems/customers-who-never-order/) | [Solution]()***
 
 ## Medium
 ## Hard
