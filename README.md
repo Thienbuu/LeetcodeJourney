@@ -42,7 +42,7 @@
 #155. Min Stack: [Problem](https://leetcode.com/problems/min-stack/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/MinStack.java)\
 ***#157. Read N Characters Given Read4 (Premium): [Problem](https://leetcode.com/problems/read-n-characters-given-read4/) | [Solution]()***\
 #160. Intersection of Two Linked Lists: [Problem](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/IntersectionNode.java)\
-***#163. Missing Ranges (Premium): [Problem](https://leetcode.com/problems/missing-ranges/) | [Solution]()***\
+***<span style='color: red'>#163. Missing Ranges (Premium): [Problem](https://leetcode.com/problems/missing-ranges/) | [Solution]()</span>***\
 #167. Two Sum II - Input array is sorted: [Prolbem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/TwoSumII.java)\
 #168. Excel Sheet Column Title: [Problem](https://leetcode.com/problems/excel-sheet-column-title/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ExcelSheetColumnTitle.java)\
 #169. Majority Element: [Problem](https://leetcode.com/problems/majority-element/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/MajorityElement.java)\
@@ -55,7 +55,7 @@
 ## Medium
 #2. Add Two Numbers: [Problem](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/AddTwoNumbers.java)\
 #3. Longest Substring Without Repeating Characters: [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/LongestSubstringNoRepeat.java)\
-#5. Longest Palindromic Substring: [Problem](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution]()
+***#5. Longest Palindromic Substring: [Problem](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution]()***
 
 ## Hard
 ***#4. Median of Two Sorted Arrays: [Problem](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution]()***
