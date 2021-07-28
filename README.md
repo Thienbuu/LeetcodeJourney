@@ -67,7 +67,7 @@
 #176. Second Highest Salary: [Problem](https://leetcode.com/problems/second-highest-salary/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/SecondHighestSalary.txt)\
 #181. Employees Earning More Than Their Managers: [Problem](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/EmployeesEarningMoreThanTheirManagers.txt)\
 #182. Duplicate Emails: [Problem](https://leetcode.com/problems/duplicate-emails/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/DuplicateEmails.txt)\
-***#183. Customers Who Never Order: [Problem](https://leetcode.com/problems/customers-who-never-order/) | [Solution]()***
+#183. Customers Who Never Order: [Problem](https://leetcode.com/problems/customers-who-never-order/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/CustomersNeverOrder.txt)
 
 ## Medium
 ## Hard
