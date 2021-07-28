@@ -50,7 +50,7 @@
 #171. Excel Sheet Column Number: [Problem](https://leetcode.com/problems/excel-sheet-column-number/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ExcelSheetColumnNumber.java)\
 ***#172. Factorial Trailing Zeroes: [Problem](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Solution]()***\
 #190. Reverse Bits: [Problem](https://leetcode.com/problems/reverse-bits/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ReverseBits.java)\
-***#191. Number of 1 Bits: [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution]()***
+#191. Number of 1 Bits: [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/Numberof1Bits.java)
 
 ## Medium
 #2. Add Two Numbers: [Problem](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/AddTwoNumbers.java)\
