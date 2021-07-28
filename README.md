@@ -50,7 +50,8 @@
 #171. Excel Sheet Column Number: [Problem](https://leetcode.com/problems/excel-sheet-column-number/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ExcelSheetColumnNumber.java)\
 #172. Factorial Trailing Zeroes: [Problem](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/FactorialTrailingZeroes.java)\
 #190. Reverse Bits: [Problem](https://leetcode.com/problems/reverse-bits/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ReverseBits.java)\
-#191. Number of 1 Bits: [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/Numberof1Bits.java)
+#191. Number of 1 Bits: [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/Numberof1Bits.java)\
+***#202. Happy Number: [Problem](https://leetcode.com/problems/happy-number/) | [Solution]()***
 
 ## Medium
 #2. Add Two Numbers: [Problem](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/AddTwoNumbers.java)\
@@ -67,7 +68,10 @@
 #176. Second Highest Salary: [Problem](https://leetcode.com/problems/second-highest-salary/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/SecondHighestSalary.txt)\
 #181. Employees Earning More Than Their Managers: [Problem](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/EmployeesEarningMoreThanTheirManagers.txt)\
 #182. Duplicate Emails: [Problem](https://leetcode.com/problems/duplicate-emails/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/DuplicateEmails.txt)\
-#183. Customers Who Never Order: [Problem](https://leetcode.com/problems/customers-who-never-order/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/CustomersNeverOrder.txt)
+#183. Customers Who Never Order: [Problem](https://leetcode.com/problems/customers-who-never-order/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/CustomersNeverOrder.txt)\
+***#196. Delete Duplicate Emails: [Problem](https://leetcode.com/problems/delete-duplicate-emails/) | [Solution]()***\
+***#197. Rising Temperature: [Problem](https://leetcode.com/problems/rising-temperature/) | [Solution]()***
+
 
 ## Medium
 ## Hard
