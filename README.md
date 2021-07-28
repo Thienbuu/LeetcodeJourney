@@ -48,7 +48,7 @@
 #169. Majority Element: [Problem](https://leetcode.com/problems/majority-element/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/MajorityElement.java)\
 ***#170 Two Sum III - Data structure design (Premium): [Problem](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | [Solution]()***\
 #171. Excel Sheet Column Number: [Problem](https://leetcode.com/problems/excel-sheet-column-number/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ExcelSheetColumnNumber.java)\
-***#172. Factorial Trailing Zeroes: [Problem](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Solution]()***\
+#172. Factorial Trailing Zeroes: [Problem](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/FactorialTrailingZeroes.java)\
 #190. Reverse Bits: [Problem](https://leetcode.com/problems/reverse-bits/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ReverseBits.java)\
 #191. Number of 1 Bits: [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/Numberof1Bits.java)
 
