@@ -53,8 +53,8 @@
 #191. Number of 1 Bits: [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/Numberof1Bits.java)\
 #202. Happy Number: [Problem](https://leetcode.com/problems/happy-number/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/HappyNumber.java)\
 #203. Remove Linked List Elements: [Problem](https://leetcode.com/problems/remove-linked-list-elements/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/RemoveLinkedListElements.java)\
-***#204. Count Primes: [Problem](https://leetcode.com/problems/count-primes/) | [Solution]()\
-#205. Isomorphic Strings: [Problem](https://leetcode.com/problems/isomorphic-strings/) | [Solution]()***\
+#204. Count Primes: [Problem](https://leetcode.com/problems/count-primes/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/CountPrimes.java)\
+***#205. Isomorphic Strings: [Problem](https://leetcode.com/problems/isomorphic-strings/) | [Solution]()***\
 #206. Reverse Linked List: [Problem](https://leetcode.com/problems/reverse-linked-list/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ReverseLinkedList.java)\
 ***#217. Contains Duplicate: [Problem](https://leetcode.com/problems/contains-duplicate/) | [Solution]()\
 #219. Contains Duplicate II: [Problem](https://leetcode.com/problems/contains-duplicate-ii/) | [Solution]()***
