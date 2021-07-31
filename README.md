@@ -58,9 +58,9 @@
 #206. Reverse Linked List: [Problem](https://leetcode.com/problems/reverse-linked-list/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ReverseLinkedList.java)\
 #217. Contains Duplicate: [Problem](https://leetcode.com/problems/contains-duplicate/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ContainsDuplicate.java)\
 ***#219. Contains Duplicate II: [Problem](https://leetcode.com/problems/contains-duplicate-ii/) | [Solution]()\
-#225. Implement Stack using Queues: [Problem](https://leetcode.com/problems/implement-stack-using-queues/) | [Solution]()\
-#226. Invert Binary Tree: [Problem](https://leetcode.com/problems/invert-binary-tree/) | [Solution]()\
-#228. Summary Ranges: [Problem](https://leetcode.com/problems/summary-ranges/) | [Solution]()\
+#225. Implement Stack using Queues: [Problem](https://leetcode.com/problems/implement-stack-using-queues/) | [Solution]()***\
+#226. Invert Binary Tree: [Problem](https://leetcode.com/problems/invert-binary-tree/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/InvertBinaryTree.java)\
+***#228. Summary Ranges: [Problem](https://leetcode.com/problems/summary-ranges/) | [Solution]()\
 #231. Power of Two: [Problem](https://leetcode.com/problems/power-of-two/) | [Solution]()\
 #232. Implement Queue using Stacks: [Problem](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution]()\
 #234. Palindrome Linked List: [Problem](https://leetcode.com/problems/palindrome-linked-list/)***
