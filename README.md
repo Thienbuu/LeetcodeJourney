@@ -61,8 +61,8 @@
 #225. Implement Stack using Queues: [Problem](https://leetcode.com/problems/implement-stack-using-queues/) | [Solution]()***\
 #226. Invert Binary Tree: [Problem](https://leetcode.com/problems/invert-binary-tree/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/InvertBinaryTree.java)\
 #228. Summary Ranges: [Problem](https://leetcode.com/problems/summary-ranges/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/SummaryRanges.java)\
-**#231. Power of Two: [Problem](https://leetcode.com/problems/power-of-two/) | [Solution]()\
-#232. Implement Queue using Stacks: [Problem](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution]()\
+#231. Power of Two: [Problem](https://leetcode.com/problems/power-of-two/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/PowerOfTwo.java)\
+**#232. Implement Queue using Stacks: [Problem](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution]()\
 #234. Palindrome Linked List: [Problem](https://leetcode.com/problems/palindrome-linked-list/)***
 
 ## Medium
