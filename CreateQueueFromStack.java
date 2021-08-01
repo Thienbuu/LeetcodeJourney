@@ -1,5 +1,5 @@
 class MyQueue {
-
+    //Amotized time explanation: https://stackoverflow.com/questions/200384/constant-amortized-time
     Stack<Integer> s = new Stack<Integer>();
     Stack<Integer> reversedS = new Stack<Integer>();
     /** Initialize your data structure here. */
