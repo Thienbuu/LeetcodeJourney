@@ -63,7 +63,26 @@
 #228. Summary Ranges: [Problem](https://leetcode.com/problems/summary-ranges/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/SummaryRanges.java)\
 #231. Power of Two: [Problem](https://leetcode.com/problems/power-of-two/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/PowerOfTwo.java)\
 #232. Implement Queue using Stacks: [Problem](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/CreateQueueFromStack.java)\
-***#234. Palindrome Linked List: [Problem](https://leetcode.com/problems/palindrome-linked-list/)***
+#234. Palindrome Linked List: [Problem](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/PalindromeLinkedList.java)\
+***#235. Lowest Common Ancestor of a Binary Search Tree: [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution]()\
+#237. Delete Node in a Linked List: [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution]()\
+#242. Valid Anagram: [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution]()***\
+***#243 Shortest Word Distance (Premium): [Problem](https://leetcode.com/problems/shortest-word-distance/) | [Solution]()\
+#246 Strobogrammatic Number (Premium): [Problem](https://leetcode.com/problems/strobogrammatic-number/) | [Solution]()\
+#252 Meeting Rooms (Premium): [Problem](https://leetcode.com/problems/meeting-rooms/) | [Solution]()***\
+***#257. Binary Tree Paths: [Problem](https://leetcode.com/problems/binary-tree-paths/) | [Solution]()\
+#258. Add Digits: [Problem](https://leetcode.com/problems/add-digits/) | [Solution]()\
+#263. Ugly Number: [Problem](https://leetcode.com/problems/ugly-number/) | [Solution]()***\
+***#266 Palindrome Permutation (Premium): [Problem](https://leetcode.com/problems/palindrome-permutation/) | [Solution]()***\
+***#268. Missing Number: [Problem](https://leetcode.com/problems/missing-number/) | [Solution]()***\
+***#270 Closest Binary Search Tree Value (Premium): [Problem](https://leetcode.com/problems/closest-binary-search-tree-value/) | [Solution]()***\
+***#278. First Bad Version: [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution]()\
+#283. Move Zeroes: [Problem](https://leetcode.com/problems/move-zeroes/) | [Solution]()\
+#290. Word Pattern: [Problem](https://leetcode.com/problems/word-pattern/) | [Solution]()\
+#292. Nim Game: [Problem](https://leetcode.com/problems/nim-game/) | [Solution]()***\
+***#293 Flip Game (Premium): [Problem](https://leetcode.com/problems/flip-game/) | [Solution]()***
+
+
 
 ## Medium
 #2. Add Two Numbers: [Problem](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/AddTwoNumbers.java)\
