@@ -65,8 +65,8 @@
 #232. Implement Queue using Stacks: [Problem](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/CreateQueueFromStack.java)\
 #234. Palindrome Linked List: [Problem](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/PalindromeLinkedList.java)\
 ***#235. Lowest Common Ancestor of a Binary Search Tree: [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution]()\
-#237. Delete Node in a Linked List: [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution]()\
-#242. Valid Anagram: [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution]()***\
+#237. Delete Node in a Linked List: [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution]()***\
+#242. Valid Anagram: [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ValidAnagram.java)\
 ***#243 Shortest Word Distance (Premium): [Problem](https://leetcode.com/problems/shortest-word-distance/) | [Solution]()\
 #246 Strobogrammatic Number (Premium): [Problem](https://leetcode.com/problems/strobogrammatic-number/) | [Solution]()\
 #252 Meeting Rooms (Premium): [Problem](https://leetcode.com/problems/meeting-rooms/) | [Solution]()***\
