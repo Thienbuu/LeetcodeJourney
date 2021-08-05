@@ -70,7 +70,7 @@
 ***#243 Shortest Word Distance (Premium): [Problem](https://leetcode.com/problems/shortest-word-distance/) | [Solution]()\
 #246 Strobogrammatic Number (Premium): [Problem](https://leetcode.com/problems/strobogrammatic-number/) | [Solution]()\
 #252 Meeting Rooms (Premium): [Problem](https://leetcode.com/problems/meeting-rooms/) | [Solution]()***\
-***#257. Binary Tree Paths: [Problem](https://leetcode.com/problems/binary-tree-paths/) | [Solution]()***\
+#257. Binary Tree Paths: [Problem](https://leetcode.com/problems/binary-tree-paths/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/BinaryTreePaths.java)\
 #258. Add Digits: [Problem](https://leetcode.com/problems/add-digits/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/AddDigits.java)\
 ***#263. Ugly Number: [Problem](https://leetcode.com/problems/ugly-number/) | [Solution]()***\
 ***#266 Palindrome Permutation (Premium): [Problem](https://leetcode.com/problems/palindrome-permutation/) | [Solution]()***\
