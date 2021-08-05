@@ -74,7 +74,7 @@
 #258. Add Digits: [Problem](https://leetcode.com/problems/add-digits/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/AddDigits.java)\
 #263. Ugly Number: [Problem](https://leetcode.com/problems/ugly-number/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/UglyNumber.java)\
 ***#266 Palindrome Permutation (Premium): [Problem](https://leetcode.com/problems/palindrome-permutation/) | [Solution]()***\
-***#268. Missing Number: [Problem](https://leetcode.com/problems/missing-number/) | [Solution]()***\
+#268. Missing Number: [Problem](https://leetcode.com/problems/missing-number/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/MissingNumber.java)\
 ***#270 Closest Binary Search Tree Value (Premium): [Problem](https://leetcode.com/problems/closest-binary-search-tree-value/) | [Solution]()***\
 ***#278. First Bad Version: [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution]()\
 #283. Move Zeroes: [Problem](https://leetcode.com/problems/move-zeroes/) | [Solution]()\
