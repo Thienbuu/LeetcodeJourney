@@ -72,7 +72,7 @@
 #252 Meeting Rooms (Premium): [Problem](https://leetcode.com/problems/meeting-rooms/) | [Solution]()***\
 #257. Binary Tree Paths: [Problem](https://leetcode.com/problems/binary-tree-paths/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/BinaryTreePaths.java)\
 #258. Add Digits: [Problem](https://leetcode.com/problems/add-digits/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/AddDigits.java)\
-***#263. Ugly Number: [Problem](https://leetcode.com/problems/ugly-number/) | [Solution]()***\
+#263. Ugly Number: [Problem](https://leetcode.com/problems/ugly-number/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/UglyNumber.java)\
 ***#266 Palindrome Permutation (Premium): [Problem](https://leetcode.com/problems/palindrome-permutation/) | [Solution]()***\
 ***#268. Missing Number: [Problem](https://leetcode.com/problems/missing-number/) | [Solution]()***\
 ***#270 Closest Binary Search Tree Value (Premium): [Problem](https://leetcode.com/problems/closest-binary-search-tree-value/) | [Solution]()***\
