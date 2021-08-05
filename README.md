@@ -76,8 +76,8 @@
 ***#266 Palindrome Permutation (Premium): [Problem](https://leetcode.com/problems/palindrome-permutation/) | [Solution]()***\
 #268. Missing Number: [Problem](https://leetcode.com/problems/missing-number/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/MissingNumber.java)\
 ***#270 Closest Binary Search Tree Value (Premium): [Problem](https://leetcode.com/problems/closest-binary-search-tree-value/) | [Solution]()***\
-***#278. First Bad Version: [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution]()\
-#283. Move Zeroes: [Problem](https://leetcode.com/problems/move-zeroes/) | [Solution]()\
+#278. First Bad Version: [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/FirstBadVersion.java)\
+***#283. Move Zeroes: [Problem](https://leetcode.com/problems/move-zeroes/) | [Solution]()\
 #290. Word Pattern: [Problem](https://leetcode.com/problems/word-pattern/) | [Solution]()\
 #292. Nim Game: [Problem](https://leetcode.com/problems/nim-game/) | [Solution]()***\
 ***#293 Flip Game (Premium): [Problem](https://leetcode.com/problems/flip-game/) | [Solution]()***
