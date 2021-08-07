@@ -80,7 +80,20 @@
 #283. Move Zeroes: [Problem](https://leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/MoveZeroes.java)\
 #290. Word Pattern: [Problem](https://leetcode.com/problems/word-pattern/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/WordPattern.java)\
 #292. Nim Game: [Problem](https://leetcode.com/problems/nim-game/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/NimGame.java)\
-***#293 Flip Game (Premium): [Problem](https://leetcode.com/problems/flip-game/) | [Solution]()***
+***#293 Flip Game (Premium): [Problem](https://leetcode.com/problems/flip-game/) | [Solution]()***\
+***#303. Range Sum Query - Immutable: [Problem](https://leetcode.com/problems/range-sum-query-immutable/) | [Solution]()\
+#326. Power of Three: [Problem](https://leetcode.com/problems/power-of-three/) | [Solution]()\
+#338. Counting Bits: [Problem](https://leetcode.com/problems/counting-bits/) | [Solution]()\
+#342. Power of Four: [Problem](https://leetcode.com/problems/power-of-four/) | [Solution]()\
+#344. Reverse String: [Problem](https://leetcode.com/problems/reverse-string/) | [Solution]()\
+#345. Reverse Vowels of a String: [Problem](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Solution]()\
+#346 Moving Average from Data Stream: [Problem](https://leetcode.com/problems/moving-average-from-data-stream/) | [Solution]()\
+#349. Intersection of Two Arrays: [Problem](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution]()\
+#350. Intersection of Two Arrays II: [Problem](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution]()\
+#359 Logger Rate Limiter: [Problem](https://leetcode.com/problems/logger-rate-limiter/) | [Solution]()\
+#367. Valid Perfect Square: [Problem](https://leetcode.com/problems/valid-perfect-square/) | [Solution]()\
+#374. Guess Number Higher or Lower: [Problem](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Solution]()\
+#383. Ransom Note: [Problem](https://leetcode.com/problems/ransom-note/) | [Solution]()***
 
 
 
