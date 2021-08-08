@@ -114,7 +114,36 @@
 #459. Repeated Substring Pattern: [Problem](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution]()\
 #461. Hamming Distance: [Problem](https://leetcode.com/problems/hamming-distance/) | [Solution]()\
 #463. Island Perimeter: [Problem](https://leetcode.com/problems/island-perimeter/) | [Solution]()\
-#476. Number Complement: [Problem](https://leetcode.com/problems/number-complement/) | [Solution]()***\
+#476. Number Complement: [Problem](https://leetcode.com/problems/number-complement/) | [Solution]()\
+#482. License Key Formatting: [Problem](https://leetcode.com/problems/license-key-formatting/) | [Solution]()\
+#485. Max Consecutive Ones: [Problem](https://leetcode.com/problems/max-consecutive-ones/) | [Solution]()\
+#492. Construct the Rectangle: [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution]()\
+#495. Teemo Attacking: [Problem](https://leetcode.com/problems/teemo-attacking/) | [Solution]()\
+#496. Next Greater Element I: [Problem](https://leetcode.com/problems/next-greater-element-i/) | [Solution]()\
+#500. Keyboard Row: [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution]()\
+#501. Find Mode in Binary Search Tree: [Problem](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Solution]()\
+#504. Base 7: [Problem](https://leetcode.com/problems/base-7/) | [Solution]()\
+#506. Relative Ranks: [Problem](https://leetcode.com/problems/relative-ranks/) | [Solution]()\
+#507. Perfect Number: [Problem](https://leetcode.com/problems/perfect-number/) | [Solution]()\
+#509. Fibonacci Number: [Problem](https://leetcode.com/problems/fibonacci-number/) | [Solution]()***\
+***#511 Game Play Analysis I: [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution]()\
+#512 Game Play Analysis II: [Problem](https://leetcode.com/problems/game-play-analysis-ii/) | [Solution]()***\
+***#520. Detect Capital: [Problem](https://leetcode.com/problems/detect-capital/) | [Solution]()\
+#521. Longest Uncommon Subsequence I: [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [Solution]()\
+#530. Minimum Absolute Difference in BST: [Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Solution]()\
+#541. Reverse String II: [Problem](https://leetcode.com/problems/reverse-string-ii/) | [Solution]()\
+#543. Diameter of Binary Tree: [Problem](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution]()\
+#551. Student Attendance Record I: [Problem](https://leetcode.com/problems/student-attendance-record-i/) | [Solution]()\
+#557. Reverse Words in a String III: [Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution]()\
+#559. Maximum Depth of N-ary Tree: [Problem](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Solution]()\
+#561. Array Partition I: [Problem](https://leetcode.com/problems/array-partition-i/) | [Solution]()\
+#563. Binary Tree Tilt: [Problem](https://leetcode.com/problems/binary-tree-tilt/) | [Solution]()\
+#566. Reshape the Matrix: [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution]()\
+#572. Subtree of Another Tree: [Problem](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution]()\
+#575. Distribute Candies: [Problem](https://leetcode.com/problems/distribute-candies/) | [Solution]()***\
+***#577 Employee Bonus: [Problem](https://leetcode.com/problems/employee-bonus/) | [Solution]()\
+#584 Find Customer Referee: [Problem](https://leetcode.com/problems/find-customer-referee/) | [Solution]()\
+#586 Customer Placing the Largest Number of Orders: [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution]()***
 
 ## Medium
 #2. Add Two Numbers: [Problem](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/AddTwoNumbers.java)\
