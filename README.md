@@ -81,19 +81,19 @@
 #290. Word Pattern: [Problem](https://leetcode.com/problems/word-pattern/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/WordPattern.java)\
 #292. Nim Game: [Problem](https://leetcode.com/problems/nim-game/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/NimGame.java)\
 ***#293 Flip Game (Premium): [Problem](https://leetcode.com/problems/flip-game/) | [Solution]()***\
-***#303. Range Sum Query - Immutable: [Problem](https://leetcode.com/problems/range-sum-query-immutable/) | [Solution]()\
-#326. Power of Three: [Problem](https://leetcode.com/problems/power-of-three/) | [Solution]()\
-#338. Counting Bits: [Problem](https://leetcode.com/problems/counting-bits/) | [Solution]()\
-#342. Power of Four: [Problem](https://leetcode.com/problems/power-of-four/) | [Solution]()\
-#344. Reverse String: [Problem](https://leetcode.com/problems/reverse-string/) | [Solution]()\
-#345. Reverse Vowels of a String: [Problem](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Solution]()\
-#346 Moving Average from Data Stream: [Problem](https://leetcode.com/problems/moving-average-from-data-stream/) | [Solution]()\
-#349. Intersection of Two Arrays: [Problem](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution]()\
-#350. Intersection of Two Arrays II: [Problem](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution]()\
-#359 Logger Rate Limiter: [Problem](https://leetcode.com/problems/logger-rate-limiter/) | [Solution]()\
-#367. Valid Perfect Square: [Problem](https://leetcode.com/problems/valid-perfect-square/) | [Solution]()\
-#374. Guess Number Higher or Lower: [Problem](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Solution]()\
-#383. Ransom Note: [Problem](https://leetcode.com/problems/ransom-note/) | [Solution]()***
+#303. Range Sum Query - Immutable: [Problem](https://leetcode.com/problems/range-sum-query-immutable/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/RangeSumQuery.java)\
+#326. Power of Three: [Problem](https://leetcode.com/problems/power-of-three/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/PowerOfThree.java)\
+#338. Counting Bits: [Problem](https://leetcode.com/problems/counting-bits/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/CountingBits.java)\
+#342. Power of Four: [Problem](https://leetcode.com/problems/power-of-four/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/PowerOfFour.java)\
+#344. Reverse String: [Problem](https://leetcode.com/problems/reverse-string/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ReverseString.java)\
+#345. Reverse Vowels of a String: [Problem](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ReverseVowels.java)\
+***#346 Moving Average from Data Stream (Premium): [Problem](https://leetcode.com/problems/moving-average-from-data-stream/) | [Solution]()***\
+#349. Intersection of Two Arrays: [Problem](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/IntersectionArrays.java)\
+#350. Intersection of Two Arrays II: [Problem](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/IntersectionArrays2.java)\
+#359 Logger Rate Limiter (Premium): [Problem](https://leetcode.com/problems/logger-rate-limiter/) | [Solution]()\
+#367. Valid Perfect Square: [Problem](https://leetcode.com/problems/valid-perfect-square/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ValidPerfectSquare.java)\
+#374. Guess Number Higher or Lower: [Problem](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/GuessNumber.java)\
+#383. Ransom Note: [Problem](https://leetcode.com/problems/ransom-note/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/CanConstructRansomNoteString.java)\
 
 
 
