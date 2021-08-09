@@ -94,20 +94,20 @@
 #367. Valid Perfect Square: [Problem](https://leetcode.com/problems/valid-perfect-square/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ValidPerfectSquare.java)\
 #374. Guess Number Higher or Lower: [Problem](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/GuessNumber.java)\
 #383. Ransom Note: [Problem](https://leetcode.com/problems/ransom-note/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/CanConstructRansomNoteString.java)\
-***#387. First Unique Character in a String: [Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution]()\
-#389. Find the Difference: [Problem](https://leetcode.com/problems/find-the-difference/) | [Solution]()\
-#392. Is Subsequence: [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution]()\
-#401. Binary Watch: [Problem](https://leetcode.com/problems/binary-watch/) | [Solution]()\
-#404. Sum of Left Leaves: [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution]()\
-#405. Convert a Number to Hexadecimal: [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution]()***\
+#387. First Unique Character in a String: [Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/FirstUniqChar.java)\
+#389. Find the Difference: [Problem](https://leetcode.com/problems/find-the-difference/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/FindTheDifference.java)\
+#392. Is Subsequence: [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/IsSubsequence.java)\
+***#401. Binary Watch: [Problem](https://leetcode.com/problems/binary-watch/) | [Solution]()***\
+#404. Sum of Left Leaves: [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/SumOfLeftLeaves.java)\
+***#405. Convert a Number to Hexadecimal: [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution]()***\
 ***#408 Valid Word Abbreviation (Premium): [Problem](https://leetcode.com/problems/valid-word-abbreviation/) | [Solution]()***\
 ***#409. Longest Palindrome: [Problem](https://leetcode.com/problems/longest-palindrome/) | [Solution]()\
 #412. Fizz Buzz: [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution]()\
-#414. Third Maximum Number: [Problem](https://leetcode.com/problems/third-maximum-number/) | [Solution]()\
-#415. Add Strings: [Problem](https://leetcode.com/problems/add-strings/) | [Solution]()***\
+#414. Third Maximum Number: [Problem](https://leetcode.com/problems/third-maximum-number/) | [Solution]()***\
+#415. Add Strings: [Problem](https://leetcode.com/problems/add-strings/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/AddStrings.java)\
 ***#422 Valid Word Square (Premium): [Problem](https://leetcode.com/problems/valid-word-square/) | [Solution]()***\
-***#434. Number of Segments in a String: [Problem](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Solution]()\
-#441. Arranging Coins: [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution]()\
+#434. Number of Segments in a String: [Problem](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/CountSegments.java)\
+***#441. Arranging Coins: [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution]()\
 #448. Find All Numbers Disappeared in an Array: [Problem](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solution]()\
 #453. Minimum Moves to Equal Array Elements: [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Solution]()\
 #455. Assign Cookies: [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution]()\
