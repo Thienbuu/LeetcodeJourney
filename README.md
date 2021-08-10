@@ -113,11 +113,11 @@
 #455. Assign Cookies: [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution]()\
 #459. Repeated Substring Pattern: [Problem](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution]()***\
 #461. Hamming Distance: [Problem](https://leetcode.com/problems/hamming-distance/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/HammingDistance.java)\
-***#463. Island Perimeter: [Problem](https://leetcode.com/problems/island-perimeter/) | [Solution]()\
-#476. Number Complement: [Problem](https://leetcode.com/problems/number-complement/) | [Solution]()\
-#482. License Key Formatting: [Problem](https://leetcode.com/problems/license-key-formatting/) | [Solution]()\
-#485. Max Consecutive Ones: [Problem](https://leetcode.com/problems/max-consecutive-ones/) | [Solution]()\
-#492. Construct the Rectangle: [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution]()\
+***#463. Island Perimeter: [Problem](https://leetcode.com/problems/island-perimeter/) | [Solution]()***\
+#476. Number Complement: [Problem](https://leetcode.com/problems/number-complement/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/FindComplement.java)\
+***#482. License Key Formatting: [Problem](https://leetcode.com/problems/license-key-formatting/) | [Solution]()***\
+#485. Max Consecutive Ones: [Problem](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/FindMaxConsecutiveOnes.java)\
+***#492. Construct the Rectangle: [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution]()\
 #495. Teemo Attacking: [Problem](https://leetcode.com/problems/teemo-attacking/) | [Solution]()\
 #496. Next Greater Element I: [Problem](https://leetcode.com/problems/next-greater-element-i/) | [Solution]()\
 #500. Keyboard Row: [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution]()\
