@@ -111,9 +111,9 @@
 ***#448. Find All Numbers Disappeared in an Array: [Problem](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solution]()\
 #453. Minimum Moves to Equal Array Elements: [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Solution]()\
 #455. Assign Cookies: [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution]()\
-#459. Repeated Substring Pattern: [Problem](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution]()\
-#461. Hamming Distance: [Problem](https://leetcode.com/problems/hamming-distance/) | [Solution]()\
-#463. Island Perimeter: [Problem](https://leetcode.com/problems/island-perimeter/) | [Solution]()\
+#459. Repeated Substring Pattern: [Problem](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution]()***\
+#461. Hamming Distance: [Problem](https://leetcode.com/problems/hamming-distance/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/HammingDistance.java)\
+***#463. Island Perimeter: [Problem](https://leetcode.com/problems/island-perimeter/) | [Solution]()\
 #476. Number Complement: [Problem](https://leetcode.com/problems/number-complement/) | [Solution]()\
 #482. License Key Formatting: [Problem](https://leetcode.com/problems/license-key-formatting/) | [Solution]()\
 #485. Max Consecutive Ones: [Problem](https://leetcode.com/problems/max-consecutive-ones/) | [Solution]()\
