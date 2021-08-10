@@ -101,14 +101,14 @@
 #404. Sum of Left Leaves: [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/SumOfLeftLeaves.java)\
 ***#405. Convert a Number to Hexadecimal: [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution]()***\
 ***#408 Valid Word Abbreviation (Premium): [Problem](https://leetcode.com/problems/valid-word-abbreviation/) | [Solution]()***\
-***#409. Longest Palindrome: [Problem](https://leetcode.com/problems/longest-palindrome/) | [Solution]()\
-#412. Fizz Buzz: [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution]()\
-#414. Third Maximum Number: [Problem](https://leetcode.com/problems/third-maximum-number/) | [Solution]()***\
+***#409. Longest Palindrome: [Problem](https://leetcode.com/problems/longest-palindrome/) | [Solution]()***\
+#412. Fizz Buzz: [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/FizzBuzz.java)\
+#414. Third Maximum Number: [Problem](https://leetcode.com/problems/third-maximum-number/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ThirdMaxNumber.java)\
 #415. Add Strings: [Problem](https://leetcode.com/problems/add-strings/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/AddStrings.java)\
 ***#422 Valid Word Square (Premium): [Problem](https://leetcode.com/problems/valid-word-square/) | [Solution]()***\
 #434. Number of Segments in a String: [Problem](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/CountSegments.java)\
-***#441. Arranging Coins: [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution]()\
-#448. Find All Numbers Disappeared in an Array: [Problem](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solution]()\
+#441. Arranging Coins: [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ArrangeCoins.java)\
+***#448. Find All Numbers Disappeared in an Array: [Problem](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solution]()\
 #453. Minimum Moves to Equal Array Elements: [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Solution]()\
 #455. Assign Cookies: [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution]()\
 #459. Repeated Substring Pattern: [Problem](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution]()\
@@ -139,8 +139,8 @@
 #561. Array Partition I: [Problem](https://leetcode.com/problems/array-partition-i/) | [Solution]()\
 #563. Binary Tree Tilt: [Problem](https://leetcode.com/problems/binary-tree-tilt/) | [Solution]()\
 #566. Reshape the Matrix: [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution]()\
-#572. Subtree of Another Tree: [Problem](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution]()\
-#575. Distribute Candies: [Problem](https://leetcode.com/problems/distribute-candies/) | [Solution]()***\
+#572. Subtree of Another Tree: [Problem](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution]()***\
+#575. Distribute Candies: [Problem](https://leetcode.com/problems/distribute-candies/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/DistributeCandies.java)\
 ***#577 Employee Bonus: [Problem](https://leetcode.com/problems/employee-bonus/) | [Solution]()\
 #584 Find Customer Referee: [Problem](https://leetcode.com/problems/find-customer-referee/) | [Solution]()\
 #586 Customer Placing the Largest Number of Orders: [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution]()***
