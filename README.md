@@ -137,13 +137,13 @@
 #557. Reverse Words in a String III: [Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution]()\
 #559. Maximum Depth of N-ary Tree: [Problem](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Solution]()\
 #561. Array Partition I: [Problem](https://leetcode.com/problems/array-partition-i/) | [Solution]()\
-#563. Binary Tree Tilt: [Problem](https://leetcode.com/problems/binary-tree-tilt/) | [Solution]()\
-#566. Reshape the Matrix: [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution]()\
-#572. Subtree of Another Tree: [Problem](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution]()***\
+#563. Binary Tree Tilt: [Problem](https://leetcode.com/problems/binary-tree-tilt/) | [Solution]()***\
+#566. Reshape the Matrix: [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/MatrixReshape.java)\
+***#572. Subtree of Another Tree: [Problem](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution]()***\
 #575. Distribute Candies: [Problem](https://leetcode.com/problems/distribute-candies/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/DistributeCandies.java)\
-***#577 Employee Bonus: [Problem](https://leetcode.com/problems/employee-bonus/) | [Solution]()\
-#584 Find Customer Referee: [Problem](https://leetcode.com/problems/find-customer-referee/) | [Solution]()\
-#586 Customer Placing the Largest Number of Orders: [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution]()***
+***#577 Employee Bonus (Premium): [Problem](https://leetcode.com/problems/employee-bonus/) | [Solution]()\
+#584 Find Customer Referee (Premium): [Problem](https://leetcode.com/problems/find-customer-referee/) | [Solution]()\
+#586 Customer Placing the Largest Number of Orders (Premium): [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution]()***
 
 ## Medium
 #2. Add Two Numbers: [Problem](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/AddTwoNumbers.java)\
