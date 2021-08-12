@@ -109,16 +109,16 @@
 #434. Number of Segments in a String: [Problem](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/CountSegments.java)\
 #441. Arranging Coins: [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ArrangeCoins.java)\
 ***#448. Find All Numbers Disappeared in an Array: [Problem](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solution]()\
-#453. Minimum Moves to Equal Array Elements: [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Solution]()\
-#455. Assign Cookies: [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution]()\
-#459. Repeated Substring Pattern: [Problem](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution]()***\
+#453. Minimum Moves to Equal Array Elements: [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Solution]()***\
+#455. Assign Cookies: [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/AssignCookies.java)\
+***#459. Repeated Substring Pattern: [Problem](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution]()***\
 #461. Hamming Distance: [Problem](https://leetcode.com/problems/hamming-distance/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/HammingDistance.java)\
-***#463. Island Perimeter: [Problem](https://leetcode.com/problems/island-perimeter/) | [Solution]()***\
+#463. Island Perimeter: [Problem](https://leetcode.com/problems/island-perimeter/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/IslandPerimeter.java)\
 #476. Number Complement: [Problem](https://leetcode.com/problems/number-complement/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/FindComplement.java)\
-***#482. License Key Formatting: [Problem](https://leetcode.com/problems/license-key-formatting/) | [Solution]()***\
+#482. License Key Formatting: [Problem](https://leetcode.com/problems/license-key-formatting/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/LicenseKeyFormatting.java)\
 #485. Max Consecutive Ones: [Problem](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/FindMaxConsecutiveOnes.java)\
-***#492. Construct the Rectangle: [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution]()\
-#495. Teemo Attacking: [Problem](https://leetcode.com/problems/teemo-attacking/) | [Solution]()\
+#492. Construct the Rectangle: [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ConstructRectangle.java)\
+***#495. Teemo Attacking: [Problem](https://leetcode.com/problems/teemo-attacking/) | [Solution]()\
 #496. Next Greater Element I: [Problem](https://leetcode.com/problems/next-greater-element-i/) | [Solution]()\
 #500. Keyboard Row: [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution]()\
 #501. Find Mode in Binary Search Tree: [Problem](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Solution]()\
