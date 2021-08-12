@@ -101,7 +101,7 @@
 #404. Sum of Left Leaves: [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/SumOfLeftLeaves.java)\
 #405. Convert a Number to Hexadecimal: [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ConvertNumberToHexa.java)\
 ***#408 Valid Word Abbreviation (Premium): [Problem](https://leetcode.com/problems/valid-word-abbreviation/) | [Solution]()***\
-***#409. Longest Palindrome: [Problem](https://leetcode.com/problems/longest-palindrome/) | [Solution]()***\
+#409. Longest Palindrome: [Problem](https://leetcode.com/problems/longest-palindrome/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/LongestPalindrome.java)\
 #412. Fizz Buzz: [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/FizzBuzz.java)\
 #414. Third Maximum Number: [Problem](https://leetcode.com/problems/third-maximum-number/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ThirdMaxNumber.java)\
 #415. Add Strings: [Problem](https://leetcode.com/problems/add-strings/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/AddStrings.java)\
