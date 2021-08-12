@@ -99,7 +99,7 @@
 #392. Is Subsequence: [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/IsSubsequence.java)\
 ***#401. Binary Watch: [Problem](https://leetcode.com/problems/binary-watch/) | [Solution]()***\
 #404. Sum of Left Leaves: [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/SumOfLeftLeaves.java)\
-***#405. Convert a Number to Hexadecimal: [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution]()***\
+#405. Convert a Number to Hexadecimal: [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ConvertNumberToHexa.java)\
 ***#408 Valid Word Abbreviation (Premium): [Problem](https://leetcode.com/problems/valid-word-abbreviation/) | [Solution]()***\
 ***#409. Longest Palindrome: [Problem](https://leetcode.com/problems/longest-palindrome/) | [Solution]()***\
 #412. Fizz Buzz: [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/FizzBuzz.java)\
