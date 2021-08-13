@@ -123,19 +123,19 @@
 #500. Keyboard Row: [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/KeyboardRow.java)\
 ***#501. Find Mode in Binary Search Tree: [Problem](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Solution]()***\
 #504. Base 7: [Problem](https://leetcode.com/problems/base-7/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/Base7.java)\
-***#506. Relative Ranks: [Problem](https://leetcode.com/problems/relative-ranks/) | [Solution]()\
-#507. Perfect Number: [Problem](https://leetcode.com/problems/perfect-number/) | [Solution]()\
-#509. Fibonacci Number: [Problem](https://leetcode.com/problems/fibonacci-number/) | [Solution]()***\
-***#511 Game Play Analysis I: [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution]()\
-#512 Game Play Analysis II: [Problem](https://leetcode.com/problems/game-play-analysis-ii/) | [Solution]()***\
-***#520. Detect Capital: [Problem](https://leetcode.com/problems/detect-capital/) | [Solution]()\
-#521. Longest Uncommon Subsequence I: [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [Solution]()\
-#530. Minimum Absolute Difference in BST: [Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Solution]()\
-#541. Reverse String II: [Problem](https://leetcode.com/problems/reverse-string-ii/) | [Solution]()\
-#543. Diameter of Binary Tree: [Problem](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution]()\
-#551. Student Attendance Record I: [Problem](https://leetcode.com/problems/student-attendance-record-i/) | [Solution]()\
-#557. Reverse Words in a String III: [Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution]()\
-#559. Maximum Depth of N-ary Tree: [Problem](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Solution]()\
+#506. Relative Ranks: [Problem](https://leetcode.com/problems/relative-ranks/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/FindRelativeRanks.java)\
+#507. Perfect Number: [Problem](https://leetcode.com/problems/perfect-number/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/PerfectNumber.java)\
+#509. Fibonacci Number: [Problem](https://leetcode.com/problems/fibonacci-number/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/FibonacciNumber.java)\
+***#511 Game Play Analysis I (Premium): [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution]()\
+#512 Game Play Analysis II (Premium): [Problem](https://leetcode.com/problems/game-play-analysis-ii/) | [Solution]()***\
+#520. Detect Capital: [Problem](https://leetcode.com/problems/detect-capital/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/DetectCapital.java)\
+***#521. Longest Uncommon Subsequence I: [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [Solution]()\
+#530. Minimum Absolute Difference in BST: [Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Solution]()***\
+#541. Reverse String II: [Problem](https://leetcode.com/problems/reverse-string-ii/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ReverseStringII.java)\
+***#543. Diameter of Binary Tree: [Problem](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution]()\
+#551. Student Attendance Record I: [Problem](https://leetcode.com/problems/student-attendance-record-i/) | [Solution]()***\
+#557. Reverse Words in a String III: [Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ReverseWordsInString.java)\
+***#559. Maximum Depth of N-ary Tree: [Problem](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Solution]()\
 #561. Array Partition I: [Problem](https://leetcode.com/problems/array-partition-i/) | [Solution]()\
 #563. Binary Tree Tilt: [Problem](https://leetcode.com/problems/binary-tree-tilt/) | [Solution]()***\
 #566. Reshape the Matrix: [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/MatrixReshape.java)\
