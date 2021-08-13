@@ -118,12 +118,12 @@
 #482. License Key Formatting: [Problem](https://leetcode.com/problems/license-key-formatting/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/LicenseKeyFormatting.java)\
 #485. Max Consecutive Ones: [Problem](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/FindMaxConsecutiveOnes.java)\
 #492. Construct the Rectangle: [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ConstructRectangle.java)\
-***#495. Teemo Attacking: [Problem](https://leetcode.com/problems/teemo-attacking/) | [Solution]()\
-#496. Next Greater Element I: [Problem](https://leetcode.com/problems/next-greater-element-i/) | [Solution]()\
-#500. Keyboard Row: [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution]()\
-#501. Find Mode in Binary Search Tree: [Problem](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Solution]()\
-#504. Base 7: [Problem](https://leetcode.com/problems/base-7/) | [Solution]()\
-#506. Relative Ranks: [Problem](https://leetcode.com/problems/relative-ranks/) | [Solution]()\
+#495. Teemo Attacking: [Problem](https://leetcode.com/problems/teemo-attacking/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/TeemoAttacking.java)\
+#496. Next Greater Element I: [Problem](https://leetcode.com/problems/next-greater-element-i/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/NextGreaterElement.java)\
+#500. Keyboard Row: [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/KeyboardRow.java)\
+***#501. Find Mode in Binary Search Tree: [Problem](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Solution]()***\
+#504. Base 7: [Problem](https://leetcode.com/problems/base-7/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/Base7.java)\
+***#506. Relative Ranks: [Problem](https://leetcode.com/problems/relative-ranks/) | [Solution]()\
 #507. Perfect Number: [Problem](https://leetcode.com/problems/perfect-number/) | [Solution]()\
 #509. Fibonacci Number: [Problem](https://leetcode.com/problems/fibonacci-number/) | [Solution]()***\
 ***#511 Game Play Analysis I: [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution]()\
