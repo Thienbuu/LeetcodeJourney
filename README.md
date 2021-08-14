@@ -132,8 +132,8 @@
 #521. Longest Uncommon Subsequence I: [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/FindLUSlength.java)\
 #530. Minimum Absolute Difference in BST: [Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/GetMinimumDifference.java)\
 #541. Reverse String II: [Problem](https://leetcode.com/problems/reverse-string-ii/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ReverseStringII.java)\
-***#543. Diameter of Binary Tree: [Problem](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution]()\
-#551. Student Attendance Record I: [Problem](https://leetcode.com/problems/student-attendance-record-i/) | [Solution]()***\
+#543. Diameter of Binary Tree: [Problem](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/DiameterOfBinaryTree.java)\
+#551. Student Attendance Record I: [Problem](https://leetcode.com/problems/student-attendance-record-i/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/StudentAttendanceRecord.java)\
 #557. Reverse Words in a String III: [Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ReverseWordsInString.java)\
 ***#559. Maximum Depth of N-ary Tree: [Problem](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Solution]()\
 #561. Array Partition I: [Problem](https://leetcode.com/problems/array-partition-i/) | [Solution]()\
