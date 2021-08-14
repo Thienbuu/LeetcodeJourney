@@ -130,7 +130,7 @@
 #512 Game Play Analysis II (Premium): [Problem](https://leetcode.com/problems/game-play-analysis-ii/) | [Solution]()***\
 #520. Detect Capital: [Problem](https://leetcode.com/problems/detect-capital/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/DetectCapital.java)\
 #521. Longest Uncommon Subsequence I: [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/FindLUSlength.java)\
-***#530. Minimum Absolute Difference in BST: [Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Solution]()***\
+#530. Minimum Absolute Difference in BST: [Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/GetMinimumDifference.java)\
 #541. Reverse String II: [Problem](https://leetcode.com/problems/reverse-string-ii/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ReverseStringII.java)\
 ***#543. Diameter of Binary Tree: [Problem](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution]()\
 #551. Student Attendance Record I: [Problem](https://leetcode.com/problems/student-attendance-record-i/) | [Solution]()***\
