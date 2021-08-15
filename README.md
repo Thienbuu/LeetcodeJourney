@@ -148,7 +148,7 @@
 ## Medium
 #2. Add Two Numbers: [Problem](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/AddTwoNumbers.java)\
 #3. Longest Substring Without Repeating Characters: [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/LongestSubstringNoRepeat.java)\
-***#5. Longest Palindromic Substring: [Problem](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution]()
+***#5. Longest Palindromic Substring: [Problem](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution]()\
 #6. ZigZag Conversion: [Problem](https://leetcode.com/problems/zigzag-conversion/) | [Solution]()\
 #8. String to Integer (atoi): [Problem](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution]()\
 #11. Container With Most Water: [Problem](https://leetcode.com/problems/container-with-most-water/) | [Solution]()\
@@ -195,12 +195,8 @@
 #81. Search in Rotated Sorted Array II: [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution]()\
 #82. Remove Duplicates from Sorted List II: [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution]()\
 #86. Partition List: [Problem](https://leetcode.com/problems/partition-list/) | [Solution]()\
-#89. Gray Code: [Problem](https://leetcode.com/problems/gray-code/) | [Solution]()\
+#89. Gray Code: [Problem](https://leetcode.com/problems/gray-code/) | [Solution]()***\
 
-
-
-
-***
 ## Hard
 ***#4. Median of Two Sorted Arrays: [Problem](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution]()***
 
