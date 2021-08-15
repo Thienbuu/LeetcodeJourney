@@ -148,8 +148,59 @@
 ## Medium
 #2. Add Two Numbers: [Problem](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/AddTwoNumbers.java)\
 #3. Longest Substring Without Repeating Characters: [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/LongestSubstringNoRepeat.java)\
-***#5. Longest Palindromic Substring: [Problem](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution]()***
+***#5. Longest Palindromic Substring: [Problem](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution]()
+#6. ZigZag Conversion: [Problem](https://leetcode.com/problems/zigzag-conversion/) | [Solution]()\
+#8. String to Integer (atoi): [Problem](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution]()\
+#11. Container With Most Water: [Problem](https://leetcode.com/problems/container-with-most-water/) | [Solution]()\
+#12. Integer to Roman: [Problem](https://leetcode.com/problems/integer-to-roman/) | [Solution]()\
+#15. 3Sum: [Problem](https://leetcode.com/problems/3sum/) | [Solution]()\
+#16. 3Sum Closest: [Problem](https://leetcode.com/problems/3sum-closest/) | [Solution]()\
+#17. Letter Combinations of a Phone Number: [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution]()\
+#18. 4Sum: [Problem](https://leetcode.com/problems/4sum/) | [Solution]()\
+#19. Remove Nth Node From End of List: [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution]()\
+#22. Generate Parentheses: [Problem](https://leetcode.com/problems/generate-parentheses/) | [Solution]()\
+#24. Swap Nodes in Pairs: [Problem](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution]()\
+#29. Divide Two Integers: [Problem](https://leetcode.com/problems/divide-two-integers/) | [Solution]()\
+#31. Next Permutation: [Problem](https://leetcode.com/problems/next-permutation/) | [Solution]()\
+#33. Search in Rotated Sorted Array: [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution]()\
+#34. Find First and Last Position of Element in Sorted Array: [Problem](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution]()\
+#36. Valid Sudoku: [Problem](https://leetcode.com/problems/valid-sudoku/) | [Solution]()\
+#38. Count and Say: [Problem](https://leetcode.com/problems/count-and-say/) | [Solution]()\
+#39. Combination Sum: [Problem](https://leetcode.com/problems/combination-sum/) | [Solution]()\
+#40. Combination Sum II: [Problem](https://leetcode.com/problems/combination-sum-ii/) | [Solution]()\
+#43. Multiply Strings: [Problem](https://leetcode.com/problems/multiply-strings/) | [Solution]()\
+#45. Jump Game II: [Problem](https://leetcode.com/problems/jump-game-ii/) | [Solution]()\
+#46. Permutations: [Problem](https://leetcode.com/problems/permutations/) | [Solution]()\
+#47. Permutations II: [Problem](https://leetcode.com/problems/permutations-ii/) | [Solution]()\
+#48. Rotate Image: [Problem](https://leetcode.com/problems/rotate-image/) | [Solution]()\
+#49. Group Anagrams: [Problem](https://leetcode.com/problems/group-anagrams/) | [Solution]()\
+#50. Pow(x, n): [Problem](https://leetcode.com/problems/powx-n/) | [Solution]()\
+#54. Spiral Matrix: [Problem](https://leetcode.com/problems/spiral-matrix/) | [Solution]()\
+#55. Jump Game: [Problem](https://leetcode.com/problems/jump-game/) | [Solution]()\
+#56. Merge Intervals: [Problem](https://leetcode.com/problems/merge-intervals/) | [Solution]()\
+#57. Insert Interval: [Problem](https://leetcode.com/problems/insert-interval/) | [Solution]()\
+#59. Spiral Matrix II: [Problem](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution]()\
+#61. Rotate List: [Problem](https://leetcode.com/problems/rotate-list/) | [Solution]()\
+#62. Unique Paths: [Problem](https://leetcode.com/problems/unique-paths/) | [Solution]()\
+#63. Unique Paths II: [Problem](https://leetcode.com/problems/unique-paths-ii/) | [Solution]()\
+#64. Minimum Path Sum: [Problem](https://leetcode.com/problems/minimum-path-sum/) | [Solution]()\
+#71. Simplify Path: [Problem](https://leetcode.com/problems/simplify-path/) | [Solution]()\
+#73. Set Matrix Zeroes: [Problem](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution]()\
+#74. Search a 2D Matrix: [Problem](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution]()\
+#75. Sort Colors: [Problem](https://leetcode.com/problems/sort-colors/) | [Solution]()\
+#77. Combinations: [Problem](https://leetcode.com/problems/combinations/) | [Solution]()\
+#78. Subsets: [Problem](https://leetcode.com/problems/subsets/) | [Solution]()\
+#79. Word Search: [Problem](https://leetcode.com/problems/word-search/) | [Solution]()\
+#80. Remove Duplicates from Sorted Array II: [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution]()\
+#81. Search in Rotated Sorted Array II: [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution]()\
+#82. Remove Duplicates from Sorted List II: [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution]()\
+#86. Partition List: [Problem](https://leetcode.com/problems/partition-list/) | [Solution]()\
+#89. Gray Code: [Problem](https://leetcode.com/problems/gray-code/) | [Solution]()\
 
+
+
+
+***
 ## Hard
 ***#4. Median of Two Sorted Arrays: [Problem](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution]()***
 
