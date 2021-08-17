@@ -148,9 +148,9 @@
 ## Medium
 #2. Add Two Numbers: [Problem](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/AddTwoNumbers.java)\
 #3. Longest Substring Without Repeating Characters: [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/LongestSubstringNoRepeat.java)\
-***#5. Longest Palindromic Substring: [Problem](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution]()\
-#6. ZigZag Conversion: [Problem](https://leetcode.com/problems/zigzag-conversion/) | [Solution]()\
-#8. String to Integer (atoi): [Problem](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution]()\
+***#5. Longest Palindromic Substring: [Problem](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution]()***\
+#6. ZigZag Conversion: [Problem](https://leetcode.com/problems/zigzag-conversion/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ZigZagConversion.java)\
+***#8. String to Integer (atoi): [Problem](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution]()\
 #11. Container With Most Water: [Problem](https://leetcode.com/problems/container-with-most-water/) | [Solution]()\
 #12. Integer to Roman: [Problem](https://leetcode.com/problems/integer-to-roman/) | [Solution]()\
 #15. 3Sum: [Problem](https://leetcode.com/problems/3sum/) | [Solution]()\
