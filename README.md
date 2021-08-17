@@ -150,10 +150,10 @@
 #3. Longest Substring Without Repeating Characters: [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/LongestSubstringNoRepeat.java)\
 ***#5. Longest Palindromic Substring: [Problem](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution]()***\
 #6. ZigZag Conversion: [Problem](https://leetcode.com/problems/zigzag-conversion/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ZigZagConversion.java)\
-***#8. String to Integer (atoi): [Problem](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution]()\
-#11. Container With Most Water: [Problem](https://leetcode.com/problems/container-with-most-water/) | [Solution]()\
-#12. Integer to Roman: [Problem](https://leetcode.com/problems/integer-to-roman/) | [Solution]()\
-#15. 3Sum: [Problem](https://leetcode.com/problems/3sum/) | [Solution]()\
+#8. String to Integer (atoi): [Problem](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/StringtoIntegerAtoi.java)\
+#11. Container With Most Water: [Problem](https://leetcode.com/problems/container-with-most-water/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/ContainerWithMostWater.java)\
+#12. Integer to Roman: [Problem](https://leetcode.com/problems/integer-to-roman/) | [Solution](https://github.com/Thienbuu/LeetcodeJourney/blob/main/IntToRoman.java)\
+***#15. 3Sum: [Problem](https://leetcode.com/problems/3sum/) | [Solution]()\
 #16. 3Sum Closest: [Problem](https://leetcode.com/problems/3sum-closest/) | [Solution]()\
 #17. Letter Combinations of a Phone Number: [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution]()\
 #18. 4Sum: [Problem](https://leetcode.com/problems/4sum/) | [Solution]()\
